@@ -1803,8 +1803,8 @@ job ตำแหน่งความสำคัญอันดับสอง#
 ยังคงค้นหา : %d ครั้ง#
 ไม่มีร้านค้าที่ต้องการค้นหา#
 มันไม่ได้อยู่ในราคา item #
-equipment#
-equipment costume#
+อุปกรณ์#
+อุปกรณ์ คอสตูม#
 นาที#
 วินาที#
 กรุณาใส่ชื่อของ item#
@@ -2137,7 +2137,7 @@ battle ground ไม่สามารถใช้งานได้ในขณะนี้, การรอถูกยกเลิก#
 The battle ground title : %s#
 จำนวนการรอ : %d#
 เลขของห้องรอ : %d#
-Title :#
+ไตเติ้ล :#
 เป้าหมาย :#
 การจัดการสมาชิก :#
 เงื่อนไขการเข้าร่วม :#
@@ -2417,7 +2417,7 @@ CBT is not an invited user#
 4) $$lv30 monsters are placed in the output #
 5) $$lv20~30 monsters in that level range are placed in the output #
 1 vs 1#
-Costume#
+คอสตูม#
 %d First character of the profession is more than information. Please contact the Customer Care Center. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
@@ -2489,7 +2489,7 @@ Swallowed countless adventurers to put a hell of confusion, wandering in the for
 You can enter only numbers.#
 Exchange or store window is active and cannot register the withdrawal.#
 Go to#
-Compare#
+เปรียบเทียบ#
 This Weapon is not suitable for the bullet you are equipping.#
 This bullet is not suitable for the weapon you are equipping.#
 This item you want to sell is not registered. Please register the item first.#
@@ -2683,8 +2683,8 @@ You cannot add anymore.#
 only otp user login allow#
 When this button pressed, you will receive a specified initialized roulette item.#
 When this button pressed, the flashing arrows from the lines of the roulette wheel begins.#
-Title#
-Disable Title#
+ไตเติ้ล#
+ปิดใช้งานไตเติ้ล#
 Can't create a Guild in this area.#
 Can't disband a Guild in this area.#
 Can't join a Guild in this area.#
